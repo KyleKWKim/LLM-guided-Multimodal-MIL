@@ -2,7 +2,7 @@
 * The paper has been accepted by MICCAI 2024.
 
   <p align='center'>  
-    <img src='figure/architecture.png' width='1000'/>
+    <img src='figure/fig1.png' width='1000'/>
   </p>
 
 ## Abstract
