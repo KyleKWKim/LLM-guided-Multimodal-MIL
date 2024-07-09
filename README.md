@@ -1,5 +1,9 @@
 # [2024][MICCAI] LLM-guided Multi-modal Multiple Instance Learning for 5-year Overall Survival Prediction of Lung Cancer
 * The paper has been accepted by MICCAI 2024.
 
-### Abstract
+  <p align='center'>  
+    <img src='figure/architecture.png' width='1000'/>
+  </p>
+
+## Abstract
 Accurately predicting the 5-year prognosis of lung cancer patients is of utmost importance in guiding treatment planning and providing optimal patient care. Traditional methods relying on CT image-based cancer stage assessment and morphological analysis of cancer cells in pathology images have encountered challenges in terms of reliability and accuracy due to the complexity and diversity of information within these images. The recent rapid advancements in deep learning have shown promising performance in prognosis prediction. However, utilizing CT and pathology images independently for prognosis prediction faces limitations due to their distinct imaging characteristics and the unique prognostic information. To overcome these challenges, this study proposes a novel framework that integrates prognostic capabilities of both CT and pathology images with clinical information, employing a multi-modal integration approach via multiple instance learning. This framework leverages large language models (LLMs) to analyze clinical notes, align them with image modalities, and achieve effective integration across these three distinct data types. The proposed approach was rigorously validated using external datasets from different hospitals, demonstrating superior performance over models reliant on vision or clinical data alone. This highlights the adaptability and strength of LLMs in managing complex multimodal medical datasets for lung cancer prognosis, marking a significant advance towards more accurate and comprehensive patient care strategies.
