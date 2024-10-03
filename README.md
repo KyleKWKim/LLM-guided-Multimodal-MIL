@@ -1,5 +1,6 @@
 # [2024][MICCAI] LLM-guided Multi-modal Multiple Instance Learning for 5-year Overall Survival Prediction of Lung Cancer
 * The paper has been accepted by MICCAI 2024.
+* https://doi.org/10.1007/978-3-031-72384-1_23
 
   <p align='center'>  
     <img src='figure/fig1.png' width='1000'/>
